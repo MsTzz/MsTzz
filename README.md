@@ -15,16 +15,21 @@ Desenvolvedor com experiência em criação de soluções escaláveis e seguras,
 ## 🌟 Tecnologias  
 
 ### 🔹 Backend  
-- **Java & Spring Boot**: Desenvolvimento de APIs robustas e microsserviços.  
-- **Spring Security & JWT**: Implementação de autenticação e segurança avançadas.  
-- **Node.js**: Desenvolvimento backend eficiente e escalável.  
-- **JPA & Flyway**: Persistência de dados com integridade e versionamento.  
-- **MySQL & PostgreSQL**: Experiência com bancos de dados relacionais.  
+<div align="center">
+  <img src="assets/icons8-java-50.png" alt="Java" title="Java" />
+  <img src="assets/icons8-lock-50.png" alt="Spring Security" title="Spring Security" />
+  <img src="assets/icons8-nodejs-50.png" alt="Node.js" title="Node.js" />
+  <img src="assets/icons8-database-50.png" alt="MySQL, PostgreSQL, Flyway" title="MySQL, PostgreSQL, Flyway" />
+</div>
 
 ### 🔹 Frontend  
-- **HTML5 & CSS3**: Estruturas modernas e responsivas.  
-- **JavaScript & TypeScript**: Funcionalidades dinâmicas e escaláveis.  
-- **React**: Interfaces modernas com foco na experiência do usuário.  
+<div align="center">
+  <img src="assets/icons8-html-50.png" alt="HTML5" title="HTML5" />
+  <img src="assets/icons8-css-50.png" alt="CSS3" title="CSS3" />
+  <img src="assets/icons8-javascript-50.png" alt="JavaScript" title="JavaScript" />
+  <img src="assets/icons8-typescript-50.png" alt="TypeScript" title="TypeScript" />
+  <img src="assets/icons8-react-50.png" alt="React" title="React" />
+</div>
 
 ---
 
@@ -53,5 +58,3 @@ Estou constantemente explorando novas tecnologias e ferramentas para me manter a
 - [**Instagram**](https://www.instagram.com/_miyashirokaio/)  
 - **Email**: kaio.vmo@gmail.com  
 - [**GitHub**](https://github.com/MsTzz)  
-
----
