@@ -1,5 +1,3 @@
-# ![Logo do Projeto](assets/header.png)
-
 ## 🎯 Desenvolvedor Backend Java 
 
 Desenvolvedor com experiência em criação de soluções escaláveis e seguras, utilizando **Java**, **Spring Boot** e **Spring Security**. Além disso, tenho habilidades em desenvolvimento frontend e backend com tecnologias modernas como **React**, **Node.js**, **TypeScript**, e mais.
@@ -76,5 +74,3 @@ Estou constantemente explorando novas tecnologias e ferramentas para me manter a
 - [**GitHub**](https://github.com/MsTzz)  
 
 ---
-
-# ![Logo do Projeto](assets/footer.png)
