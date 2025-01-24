@@ -4,25 +4,6 @@ Desenvolvedor com experiência em criação de soluções escaláveis e seguras,
 
 ---
 
-## 🛠️ Minhas Principais Habilidades  
-
-### 🚀 Backend  
-- **Desenvolvimento de APIs RESTful**: Criação de soluções robustas, seguras e escaláveis.  
-- **Integração de Sistemas**: Uso de **Spring Boot** e **Node.js** para orquestração e eficiência.  
-- **Gerenciamento de Bancos de Dados**: Experiência prática em **MySQL** e **PostgreSQL**, com **Flyway** para migrações e versionamento.  
-- **Segurança Avançada**: Implementação de autenticação e autorização com **Spring Security** e **JWT**.  
-
-### 💻 Frontend  
-- **HTML5 & CSS3**: Criação de interfaces responsivas e acessíveis.  
-- **JavaScript & TypeScript**: Desenvolvimento de funcionalidades dinâmicas e aplicação de boas práticas.  
-- **React**: Construção de interfaces modernas e performáticas, focadas na experiência do usuário.  
-
-### 📚 Outras Habilidades  
-- **Documentação e Testes**: Utilização de **Swagger UI** e **OpenAPI** para documentação e garantia de qualidade.  
-- **Resolução de Problemas**: Uso de ferramentas como **ChatGPT** para otimizar prompts, melhorar práticas de desenvolvimento e resolver problemas de forma eficiente.
-
----
-
 ## 🚀 Atualmente  
 
 - Explorando **arquitetura de microsserviços** e soluções **baseadas em nuvem**.  
