@@ -16,19 +16,20 @@ Desenvolvedor com experiência em criação de soluções escaláveis e seguras,
 
 ### 🔹 Backend  
 <div align="center">
-  <img src="assets/icons8-java-50.png" alt="Java" title="Java" />
-  <img src="assets/icons8-lock-50.png" alt="Spring Security" title="Spring Security" />
-  <img src="assets/icons8-nodejs-50.png" alt="Node.js" title="Node.js" />
-  <img src="assets/icons8-database-50.png" alt="MySQL, PostgreSQL, Flyway" title="MySQL, PostgreSQL, Flyway" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="50" height="50" />
 </div>
 
 ### 🔹 Frontend  
 <div align="center">
-  <img src="assets/icons8-html-50.png" alt="HTML5" title="HTML5" />
-  <img src="assets/icons8-css-50.png" alt="CSS3" title="CSS3" />
-  <img src="assets/icons8-javascript-50.png" alt="JavaScript" title="JavaScript" />
-  <img src="assets/icons8-typescript-50.png" alt="TypeScript" title="TypeScript" />
-  <img src="assets/icons8-react-50.png" alt="React" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="50" height="50" />
 </div>
 
 ---
