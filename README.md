@@ -1,8 +1,4 @@
-## 🎯 Desenvolvedor Backend Java 
-
-Desenvolvedor com experiência em criação de soluções escaláveis e seguras, utilizando **Java**, **Spring Boot** e **Spring Security**. Além disso, tenho habilidades em desenvolvimento frontend e backend com tecnologias modernas como **React**, **Node.js**, **TypeScript**, e mais.
-
----
+## 🎯 Olá meu nome é Kaio Victor e sou um desenvolvedor Backend!
 
 ## 🚀 Atualmente  
 
