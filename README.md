@@ -3,7 +3,7 @@
 ## 🚀 Atualmente  
 
 - Explorando **arquitetura de microsserviços** e soluções **baseadas em nuvem**.  
-- Participando de projetos pessoais para consolidar conhecimento em **React**, **Node.js**, e integração com APIs RESTful.  
+- Participando de projetos pessoais para consolidar conhecimento em **Java**, **React**, **Node.js**, e integração com APIs RESTful.  
 - Buscando novas oportunidades para aplicar minhas habilidades em projetos **desafiadores** e **inovadores**.  
 
 ---
