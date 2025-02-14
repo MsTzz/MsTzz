@@ -38,11 +38,10 @@ Estou constantemente explorando novas tecnologias e ferramentas para me manter a
 
 ## 📊 Estatísticas do GitHub  
 
-<center>
+<div align="center">
   <a href="https://github.com/MsTzz">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MsTzz&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
   </a>
-</center>
 </div>
 
 ---
